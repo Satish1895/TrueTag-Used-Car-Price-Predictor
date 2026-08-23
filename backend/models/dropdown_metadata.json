@@ -1,0 +1,180 @@
+{
+    "brands_and_models": {
+        "Datsun": [
+            "Redi Go",
+            "Go",
+            "Go Plus"
+        ],
+        "Ford": [
+            "Ecosport",
+            "FREESTYLE",
+            "Other",
+            "New Figo"
+        ],
+        "Honda": [
+            "Brio",
+            "City",
+            "WR-V",
+            "Amaze",
+            "Jazz",
+            "Other",
+            "Civic",
+            "BR-V",
+            "CRV"
+        ],
+        "Hyundai": [
+            "Xcent",
+            "i20",
+            "Grand i10",
+            "Elite i20",
+            "Santro Xing",
+            "NEW SANTRO",
+            "GRAND I10 NIOS",
+            "Verna",
+            "VENUE",
+            "Tucson New",
+            "i10",
+            "NEW I20",
+            "Eon",
+            "Creta",
+            "i20 Active",
+            "New Elantra",
+            "AURA",
+            "Other",
+            "ALCAZAR"
+        ],
+        "Jeep": [
+            "Compass",
+            "Other"
+        ],
+        "KIA": [
+            "SONET",
+            "SELTOS",
+            "Other"
+        ],
+        "MG": [
+            "Other"
+        ],
+        "Mahindra": [
+            "XUV500",
+            "KUV 100 NXT",
+            "XUV 3OO",
+            "TUV300",
+            "Other",
+            "Thar",
+            "Kuv100",
+            "Scorpio"
+        ],
+        "Maruti": [
+            "S PRESSO",
+            "Vitara Brezza",
+            "Swift",
+            "IGNIS",
+            "Baleno",
+            "Alto 800",
+            "Celerio",
+            "Ciaz",
+            "Dzire",
+            "Alto",
+            "Alto K10",
+            "Swift Dzire",
+            "Wagon R 1.0",
+            "Celerio X",
+            "Eeco",
+            "Ertiga",
+            "A Star",
+            "Ritz",
+            "New Wagon-R",
+            "S Cross",
+            "Zen Estilo",
+            "XL6",
+            "Wagon R Stingray",
+            "BREZZA",
+            "Other"
+        ],
+        "Nissan": [
+            "MAGNITE",
+            "Micra",
+            "Micra Active",
+            "Terrano",
+            "Other"
+        ],
+        "Renault": [
+            "Kwid",
+            "TRIBER",
+            "Duster",
+            "Kiger",
+            "Other"
+        ],
+        "Skoda": [
+            "Octavia",
+            "Rapid",
+            "SLAVIA",
+            "Other"
+        ],
+        "Tata": [
+            "Safari",
+            "Tiago",
+            "TIAGO NRG",
+            "NEXON",
+            "ALTROZ",
+            "Harrier",
+            "TIGOR",
+            "PUNCH",
+            "Other",
+            "Zest"
+        ],
+        "Toyota": [
+            "URBAN CRUISER",
+            "YARIS",
+            "Glanza",
+            "Etios Liva",
+            "Other",
+            "Corolla Altis",
+            "Etios",
+            "Innova Crysta"
+        ],
+        "Volkswagen": [
+            "Ameo",
+            "Polo",
+            "Vento",
+            "Other"
+        ]
+    },
+    "states": [
+        "Haryana",
+        "Tamil Nadu",
+        "Telangana",
+        "West Bengal",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Punjab",
+        "Gujarat",
+        "Delhi",
+        "Chandigarh",
+        "Kerala",
+        "Rajasthan",
+        "Bihar",
+        "Andhra Pradesh",
+        "Madhya Pradesh",
+        "Other"
+    ],
+    "fuel_types": [
+        "PETROL",
+        "DIESEL",
+        "CNG",
+        "LPG"
+    ],
+    "transmissions": [
+        "Manual",
+        "Automatic"
+    ],
+    "body_types": [
+        "HatchBack",
+        "Sedan",
+        "SUV",
+        "Lux_SUV",
+        "Lux_sedan"
+    ]
+}
