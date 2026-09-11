@@ -5,7 +5,7 @@
 ![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Microservices-orange)
-
+[![CI/CD Pipeline](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor/actions)
 T₹ueTag is a full-stack machine learning application designed to predict the fair market value of used vehicles based on historical market data (Cars24). Beyond just returning a number, the system utilizes LLMs to generate real-time, personalized market insights justifying the valuation.
 
 ## 🏗️ System Architecture
