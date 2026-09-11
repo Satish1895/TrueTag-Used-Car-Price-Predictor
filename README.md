@@ -34,5 +34,5 @@ The entire stack can be spun up locally using Docker Compose.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor.git](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor.git)
+   git clone https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor.git
    cd TrueTag-Used-Car-Price-Predictor
