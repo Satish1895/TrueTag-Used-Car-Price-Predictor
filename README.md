@@ -5,6 +5,7 @@
 ![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Microservices-orange)
+[![CI/CD Pipeline](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor/actions)
 
 T₹ueTag is a full-stack machine learning application designed to predict the fair market value of used vehicles based on historical market data (Cars24). Beyond just returning a number, the system utilizes LLMs to generate real-time, personalized market insights justifying the valuation.
 
@@ -33,5 +34,5 @@ The entire stack can be spun up locally using Docker Compose.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/truetag.git](https://github.com/yourusername/truetag.git)
-   cd truetag
+   git clone [https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor.git](https://github.com/Satish1895/TrueTag-Used-Car-Price-Predictor.git)
+   cd TrueTag-Used-Car-Price-Predictor
