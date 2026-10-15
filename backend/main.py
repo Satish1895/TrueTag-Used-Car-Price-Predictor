@@ -8,6 +8,7 @@ import pandas as pd
 import json
 from groq import AsyncGroq
 from dotenv import load_dotenv
+from prometheus_fastapi_instrumentator import Instrumentator
 
 load_dotenv()
 
@@ -17,6 +18,8 @@ METADATA_PATH = os.path.join(BASE_DIR, "models", "dropdown_metadata.json")
 
 # initialize the api
 app = FastAPI(title="TrueTag : Used Car Price Predictor")
+
+Instrumentator().instrument(app).expose(app)
 
 app.add_middleware(
     CORSMiddleware,
